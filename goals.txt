@@ -3,3 +3,4 @@ GOALS OF THE GITFLOWDEMO PROJECT
 
 * Get familiar with gitflow
 * Get some practice
+* Learn how team members can collaborate on the project effectively.
