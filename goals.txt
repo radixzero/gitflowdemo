@@ -1,0 +1,5 @@
+================================
+GOALS OF THE GITFLOWDEMO PROJECT
+
+* Get familiar with gitflow
+* Get some practice
